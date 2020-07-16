@@ -7,10 +7,10 @@ import { Component } from '@angular/core';
       <p class="menu-label">Menu</p>
       <ul class="menu-list">
         <a routerLink="/products" routerLinkActive="router-link-active">
-          <span>Products</span>
+          <span>Productos</span>
         </a>
         <a routerLink="/about" routerLinkActive="router-link-active">
-          <span>About</span>
+          <span>Acerca de..</span>
         </a>
       </ul>
     </nav>
